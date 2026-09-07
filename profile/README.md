@@ -1,12 +1,12 @@
-# XplnHub
+# Ferrix Labs
 
-**XplnHub** is an open-source organization where we learn by building.  
+**Ferrix Labs** is an open-source organization where we learn by building.  
 We create real-world, impactful projects that simplify technology and make learning development practical, hands-on, and collaborative.
 
 We believe that technology should be understandable, accessible, and empowering for everyone.  
 Our mission is to build tools and resources that make complex concepts easier to grasp — helping developers and students learn, create, and innovate with confidence.
 
-**Website:** [www.xplnhub.tech](http://www.xplnhub.tech)
+**Website:** [www.ferrixlabs.tech](http://www.ferrixlabs.in)
 
 ---
 
@@ -87,8 +87,8 @@ We regularly host collaborative sprints, mentorship sessions, and open discussio
 Join our community to learn, collaborate, and innovate.  
 Stay updated with project news and development discussions.
 
-- Website: [www.xplnhub.tech](http://www.xplnhub.tech)  
-- GitHub: [XplnHub](https://github.com/XplnHub)  
+- Website: [www.ferrixlabs.in](http://www.ferrixlabs.in))  
+- GitHub: [Ferrix Labs](https://github.com/ferrix-lab)  
 - Community channels coming soon
 
 ---
@@ -98,4 +98,4 @@ Stay updated with project news and development discussions.
 To make learning through building the new standard in developer education.  
 To create tools that explain, frameworks that empower, and projects that inspire.
 
-**XplnHub — Simplify. Learn. Build. Innovate.**
+**Ferrix Labs — Simplify. Learn. Build. Innovate.**
