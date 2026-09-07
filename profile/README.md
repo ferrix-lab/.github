@@ -6,7 +6,7 @@ We create real-world, impactful projects that simplify technology and make learn
 We believe that technology should be understandable, accessible, and empowering for everyone.  
 Our mission is to build tools and resources that make complex concepts easier to grasp — helping developers and students learn, create, and innovate with confidence.
 
-**Website:** [www.ferrixlabs.tech](http://www.ferrixlabs.in)
+**Website:** [www.ferrixlabs.in](http://www.ferrixlabs.in)
 
 ---
 
